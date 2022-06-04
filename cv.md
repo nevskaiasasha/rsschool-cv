@@ -1,9 +1,9 @@
-# Aleksandra Nevskaia
-Junior frontend developer
+# Aleksandra Nevskaia 
+## Junior frontend developer
 =====
 ## Contacts
 * Location: St. Petersburg, Russia
-* telegram @anevskaia
+* Telegram @anevskaia
 * (+7) (981) 779-59-58 
 * nevskaiasasha@yandex.ru 
 ## Education
