@@ -59,8 +59,6 @@ Data analysis with R, Python, SQL | Datacamp
 Presentation skills (PowerPoint presentations and creative thinking)
 * 2018
 Psychology of consciousness | Open education
-* 2016
-Summer school on Science Journalism by Russian Reporter. Dubna, Russia
 ====
 ###### About me
 I am a professioanl sociologyst, and now I want to use my research skills to create usability-friendly web-services. I am also interested in UX-research and design sphere, which are important for product creation.
