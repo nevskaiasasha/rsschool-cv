@@ -1,6 +1,6 @@
 # Aleksandra Nevskaia 
 ## Junior frontend developer
-![candidate's photo](/home/aleksandra/Documents/cv.jpg)
+![candidate's photo](./cv.jpg)
 ## Contacts
 * Location: St. Petersburg, Russia
 * Telegram @anevskaia
